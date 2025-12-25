@@ -92,7 +92,9 @@ public class percobaan2 {
     4. Panggilan 4 hitunglaba (100000,0)
        = Mengembalikan nilai saldo yaitu 100000
        ```
+
    - Fase Substitusi
+   
     ``` java
     1. Kembali ke Panggilan 3 (tahun=1):
        = 1.11 x 100000 = 111000
@@ -101,6 +103,7 @@ public class percobaan2 {
     1. Kembali ke Panggilan 1 (tahun=3):
        = 1.11 x 123210 = 136763.1
        ```
+   
    - Hasil akhir
         ``` java
         Nilai akhir dari hitungLaba(100000, 3) adalah 136763.1
